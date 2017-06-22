@@ -1,5 +1,5 @@
 /*Author: Pooja srivastava
-Using merge sort techniques to count number of inversion. 100000 Integers are input from console*/
+Using merge sort techniques to count number of inversion. 100000 Integers are input from console as given in integer.txt*/
 
 #include <bits/stdc++.h>
 
